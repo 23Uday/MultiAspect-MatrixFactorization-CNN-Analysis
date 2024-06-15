@@ -1,6 +1,6 @@
 # Project1CodeDSAA2022
 ## Paper Data and Paper Results
-[Link to Data Files]([https://drive.google.com/drive/folders/1ALW3_nt317-QnAuZKXi0_EeGobFTkm-r?usp=sharing](https://drive.google.com/drive/folders/1gGta1-9AuGboVSNNEe5z_t5OSM-P59uj?usp=sharing))
+[Link to Data Files](https://drive.google.com/drive/folders/1gGta1-9AuGboVSNNEe5z_t5OSM-P59uj?usp=sharing)
 
 The above link contains 3 Items:-
 1. CIFAR100Dataset : Contains zip file for CIFAR100 datasets
